@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exportx", "exportx\exportx.csproj", "{0A8213F3-5459-4A6C-A4EB-A117F400EB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exportxui", "exportxui\exportxui.csproj", "{CAFABD60-006A-4DE4-836E-20214AFC17DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A8213F3-5459-4A6C-A4EB-A117F400EB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8213F3-5459-4A6C-A4EB-A117F400EB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8213F3-5459-4A6C-A4EB-A117F400EB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8213F3-5459-4A6C-A4EB-A117F400EB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFABD60-006A-4DE4-836E-20214AFC17DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFABD60-006A-4DE4-836E-20214AFC17DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFABD60-006A-4DE4-836E-20214AFC17DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFABD60-006A-4DE4-836E-20214AFC17DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
